@@ -1,0 +1,27 @@
+User-Agent: *
+Disallow: 
+Disallow: /privacypolicy.html
+
+User-Agent: Googlebot
+Allow: /
+
+User-Agent: Googlebot-Mobile
+Allow: /
+
+User-Agent: Googlebot-Image
+Disallow: /imgs/
+Disallow: /images/
+
+User-Agent: Slurp
+Disallow: /
+
+User-Agent: msnbot
+Disallow: /
+
+User-Agent: msnbot-media
+Disallow: /
+
+User-Agent: Teoma
+Disallow: /
+
+Sitemap: http://gardenfinder.net/sitemap.xml

@@ -1,0 +1,23 @@
+TODO:
+	Add Content for all parks in Nambucca
+	
+	
+	
+	
+	
+	
+	
+
+GardenFinder 1.4 Release Notes:
+	-Added Nambucca's Parks (content not added yet) (table of parks is commented out)
+	-Simlink issue is fixed
+	-Add Content to Scotts Head School page
+	-Add scotts head school community garden to the nav
+	-Minified all js and css resources
+	-use Photoshop to make scottshead school images smaller (300x200)
+	-added social media links to header
+	-changed font of notification header
+	-open youthfrontiers link in another tab instead of current tab
+GardenFinder 1.5 Release Notes:
+	-Added Google Analytics Tracking, allows us to see how people use the website
+	-fix nav bar bug

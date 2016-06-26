@@ -1,0 +1,120 @@
+<!doctype html>
+<!--If you are seeing this is probably means that you have a slight interest in programming, if you would like to become a volunteer web developer for GardenFinder please contact jsullivan@gardenfinder.net-->
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="keywords" content="garden,finder,website,nambucca,valley,community,gardens,parks,map,region,bowraville,macksville">
+<meta name="description" content="Garden Finder is a website where you can find all the parks and community gardens in the Nambucca Valley">
+<title>Home Page - GardenFinder</title>
+<link href="twoColLiqLtHdr.css" rel="stylesheet" type="text/css">
+<link href="favicon.ico" rel="icon">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "GardenFinder",
+  "url": "http://www.gardenfinder.net",
+  "email": "jsullivan@gardenfinder.net",
+  "foundingDate": "2015-11-13",
+  "logo": "https://www.gardenfinder.net/imgs/gflogo.png",
+  "sameAs": [
+    "http://www.twitter.com/gardenfinder",
+    "http://plus.google.com/+GardenfinderNet"
+  ]
+  
+  
+}
+</script>
+<!--[if lte IE 7]>
+<style>
+.content { margin-right: -1px; } /* this 1px negative margin can be placed on any of the columns in this layout with the same corrective effect. */
+ul.nav a { zoom: 1; }  /* the zoom property gives IE the hasLayout trigger it needs to correct extra whiltespace between the links */
+</style>
+<![endif]-->
+<script src="jQueryAssets/jquery-min.js" type="text/javascript"></script>
+</head>
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5MCWQS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5MCWQS');</script>
+<!-- End Google Tag Manager -->
+<div class="container">
+  <!--This div contains the code required for the header image-->
+  <div class="header"><a href="index.html"><img src="imgs/gflogo.png" alt="Garden Finder Logo" name="Garden Finder Logo" width="72" height="72" id="mainsitelogo" style="background-color: rgba(128, 144, 171, 0);display:block;" /></a>
+   
+    <a href="https://twitter.com/gardenfinder" target="new"><img src="imgs/twitter-32x32.png" alt="Twitter Logo" style="float:right" class="socialicons"></a>
+    <a href="https://plus.google.com/u/2/b/106840062304627018180/106840062304627018180" target="new"><img src="imgs/googleplus-32x32.png" alt="Google Plus Logo" style="float:right" class="socialicons"></a>
+    <p style="float:right" class="socialicons">Why not follow us on social media</p>  
+ ;
+  <!-- end .header --></div>
+  <!--Convient Sidebar helps users find the right place they want to go-->
+  <div class="sidebar1">
+    <div id="Accordion1" style="max-height: 763px">
+      
+      <h3><a href="#">Regions</a></h3>
+      <div>
+        <a href="regions/bowraville.html">Bowraville</a>
+        <!--Dont think about removing the paragraph tags, that breaks the sidebar-->
+        <a href="regions/macksville.html">Macksville</a>
+        <a href="regions/nambucca.html">Nambucca</a>
+      </div>
+      <h3><a href="#">Gardens</a></h3>
+      <div style="display: none; height: 140px;">
+        <a href="gardens/bcscommunity.html">Bowraville Community Garden</a>
+        <br>
+        <a href="gardens/lifetimeconnect.html">Macksville Community Garden</a>
+        <br>
+        <a href="gardens/scottsheadschool.html">Scotts Head School Community Garden</a>
+      </div>
+    </div>
+<!--Advertisment for the folks that made this site possible-->
+	<div class="gfadvertise">
+    <p>Garden Finder was created as a result of the youth mentoring program Youth Frontiers</p>
+<a href="http://youthfrontiers.com.au" target="new">Read More about it here</a>
+    </div>
+    <!-- end .sidebar1 -->
+    
+  </div>
+    <!--This following iframe is placed on every page and allows us to easily put a notification on the top of the page to alert the users to things-->
+<iframe class="iframe" src="notificationheader.html"></iframe>
+
+
+<!--This is where the magic happens-->
+  <div class="content">
+   
+<p>GardenFinder is a website where you can find all of the parks and community gardens in the Nambucca Valley</p>
+<!--Slide Show of some images from the gardens-->
+   <h2>Regions</h2>
+    <p>Use the map below or click one of the links to the left go to your desired region</p>
+<!--I swear I will replace this html map with something better but that would be to hard so deal with it :)-->
+    <img src="imgs/illustratedmap.png" alt="Garden Finder Region Map" width="328" height="248" usemap="#map" class="fltlft">
+  <map name="map">
+    <area shape="rect" coords="-3,56,79,90" href="regions/bowraville.html">
+    <area shape="rect" coords="46,127,128,157" href="regions/macksville.html">
+    <area shape="rect" coords="228,44,306,90" href="regions/nambucca.html">
+  </map>
+  
+
+    
+    <!-- end .content --></div>
+<div class="footer">
+    <!--Gotta make sure that people know who owns the website-->
+    <p>&copy; Jack Sullivan 2016</p>
+    <!-- end .footer --></div>
+<!-- end .container --></div>
+<script type="text/javascript">
+$(function() {
+	$( "#Accordion1" ).accordion({
+		animate:{easing: "swing"},
+		heightStyle:"content"
+	}); 
+});
+</script>
+</body>
+</html>
