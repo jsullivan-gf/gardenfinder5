@@ -1,45 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-<url>
-  <loc>http://www.gardenfinder.net/</loc>
-  <lastmod>2016-03-26T00:39:22+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>http://www.gardenfinder.net/index.html</loc>
-  <lastmod>2016-03-26T00:39:22+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.gardenfinder.net/feedback.html</loc>
-  <lastmod>2016-03-26T00:39:21+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.gardenfinder.net/regions/bowraville.html</loc>
-  <lastmod>2016-03-26T00:39:22+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.gardenfinder.net/regions/macksville.html</loc>
-  <lastmod>2016-03-26T00:39:22+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.gardenfinder.net/regions/nambucca.html</loc>
-  <lastmod>2016-03-26T00:39:22+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.gardenfinder.net/images/dsc06276.jpg</loc>
+    <lastmod>2016-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.gardenfinder.net/images/img0.jpg</loc>
+    <lastmod>2016-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.gardenfinder.net/images/sam_2149.jpg</loc>
+    <lastmod>2016-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.gardenfinder.net/images/img2.jpg</loc>
+    <lastmod>2016-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.gardenfinder.net/index.html</loc>
+    <lastmod>2016-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.gardenfinder.net/is-gardening-good-for-you.html</loc>
+    <lastmod>2016-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.gardenfinder.net/nambucca.html</loc>
+    <lastmod>2016-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.gardenfinder.net/bowraville.html</loc>
+    <lastmod>2016-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.gardenfinder.net/macksville.html</loc>
+    <lastmod>2016-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.gardenfinder.net/bowraville-community-garden.html</loc>
+    <lastmod>2016-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.gardenfinder.net/lifetime-connect-community-garden.html</loc>
+    <lastmod>2016-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
