@@ -1,7 +1,7 @@
 .version.bowraville_community_garden /* version checker */
 {
-	color: #000019;
-	background-color: #4B5383;
+	color: #00001F;
+	background-color: #9B139F;
 }
 
 .html
@@ -303,7 +303,7 @@
 {
 	z-index: 33;
 	width: 732px;
-	padding-bottom: 88px;
+	padding-bottom: 7.117430994142694px;
 	margin-right: -10000px;
 	margin-top: 62px;
 	left: 208px;
@@ -338,6 +338,19 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 349px;
+}
+
+#u464
+{
+	z-index: 47;
+	width: 109px;
+	min-height: 34px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 383px;
+	margin-top: 47px;
+	position: relative;
 }
 
 body

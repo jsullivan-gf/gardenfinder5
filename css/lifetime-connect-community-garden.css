@@ -1,7 +1,7 @@
 .version.lifetime_connect_community_garden /* version checker */
 {
-	color: #000018;
-	background-color: #3A6ABD;
+	color: #0000E7;
+	background-color: #DD18F7;
 }
 
 .html
@@ -303,7 +303,7 @@
 {
 	z-index: 33;
 	width: 732px;
-	padding-bottom: 88px;
+	padding-bottom: 7.117430994142694px;
 	margin-right: -10000px;
 	margin-top: 62px;
 	left: 208px;
@@ -339,6 +339,19 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 326px;
+}
+
+#u468
+{
+	z-index: 47;
+	width: 109px;
+	min-height: 34px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 383px;
+	margin-top: 47px;
+	position: relative;
 }
 
 body

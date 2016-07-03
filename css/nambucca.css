@@ -1,7 +1,7 @@
 .version.nambucca /* version checker */
 {
-	color: #000002;
-	background-color: #0DAF26;
+	color: #0000FD;
+	background-color: #C1EA6C;
 }
 
 .html
@@ -303,7 +303,7 @@
 {
 	z-index: 33;
 	width: 732px;
-	padding-bottom: 72px;
+	padding-bottom: 7.117430994142694px;
 	margin-right: -10000px;
 	margin-top: 62px;
 	left: 208px;
@@ -321,6 +321,19 @@
 	vertical-align: top;
 	margin-left: 93px;
 	margin-top: 146px;
+	position: relative;
+}
+
+#u460
+{
+	z-index: 42;
+	width: 109px;
+	min-height: 34px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 383px;
+	margin-top: 31px;
 	position: relative;
 }
 

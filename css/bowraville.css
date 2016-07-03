@@ -1,7 +1,7 @@
 .version.bowraville /* version checker */
 {
-	color: #0000F3;
-	background-color: #B87298;
+	color: #0000EC;
+	background-color: #034D0D;
 }
 
 .html
@@ -303,7 +303,7 @@
 {
 	z-index: 33;
 	width: 732px;
-	padding-bottom: 102px;
+	padding-bottom: 7.117430994142694px;
 	margin-right: -10000px;
 	margin-top: 62px;
 	left: 208px;
@@ -361,6 +361,19 @@
 	line-height: 18px;
 	font-family: actor, sans-serif;
 	font-weight: 400;
+}
+
+#u462
+{
+	z-index: 50;
+	width: 109px;
+	min-height: 34px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 383px;
+	margin-top: 61px;
+	position: relative;
 }
 
 body
