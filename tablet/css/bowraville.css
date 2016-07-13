@@ -1,0 +1,542 @@
+.version.bowraville /* version checker */
+{
+	color: #00001C;
+	background-color: #FE542D;
+}
+
+@-ms-viewport
+{
+	width: 768px;
+}
+
+@-webkit-viewport
+{
+	width: 768px;
+}
+
+@-o-viewport
+{
+	width: 768px;
+}
+
+@-moz-viewport
+{
+	width: 768px;
+}
+
+@viewport
+{
+	width: 768px;
+}
+
+.html
+{
+	background-color: #006A00;
+}
+
+#page
+{
+	z-index: 1;
+	width: 768px;
+	min-height: 1024px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #006837;
+}
+
+#page_position_content
+{
+	padding-top: 19px;
+	width: 0.01px;
+}
+
+#u540-4
+{
+	z-index: 2;
+	margin-right: -10000px;
+	margin-top: 17px;
+}
+
+#u541
+{
+	z-index: 6;
+	width: 91px;
+	margin-right: -10000px;
+	left: 93px;
+}
+
+#pu540-4,#pu547
+{
+	width: 0.01px;
+}
+
+#u547
+{
+	z-index: 8;
+	min-height: 303px;
+	padding-bottom: 465px;
+}
+
+#u1090
+{
+	z-index: 10;
+	width: 302px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 102px;
+	left: 63px;
+}
+
+#u1090_img
+{
+	padding-bottom: 1px;
+}
+
+#u1095-9
+{
+	z-index: 12;
+	width: 325px;
+	min-height: 200px;
+	background-color: transparent;
+	font-family: actor, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 102px;
+	left: 380px;
+}
+
+#u1095-2,#u1095-3
+{
+	font-size: 19px;
+	line-height: 23px;
+}
+
+#u547-bw
+{
+	z-index: 8;
+	min-height: 303px;
+}
+
+#pamphletu931
+{
+	z-index: 21;
+	width: 0.01px;
+	height: 87px;
+	padding-bottom: 300px;
+	position: relative;
+	margin-right: -10000px;
+	left: 453px;
+}
+
+#u934
+{
+	position: absolute;
+	width: 315px;
+	background-color: transparent;
+}
+
+#u934popup
+{
+	z-index: 22;
+}
+
+#u935
+{
+	z-index: 23;
+	width: 315px;
+	height: 387px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #EDEDED;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u940
+{
+	z-index: 45;
+	width: 315px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #DA8F38;
+	padding-bottom: 39px;
+	position: relative;
+}
+
+#u945-4
+{
+	z-index: 46;
+	width: 185px;
+	min-height: 49px;
+	background-color: transparent;
+	font-size: 23px;
+	text-align: center;
+	line-height: 28px;
+	font-family: actor, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 54px;
+	left: 42px;
+}
+
+#buttonu946
+{
+	z-index: 24;
+	width: 313px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 24px;
+	margin-left: 1px;
+	position: relative;
+}
+
+#buttonu946:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #F5C791;
+	width: 313px;
+	min-height: 0px;
+	margin: 0px 0px 0px 1px;
+}
+
+#u947-4
+{
+	z-index: 25;
+	width: 122px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 34px;
+	left: 96px;
+}
+
+#buttonu946:hover #u947-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 122px;
+	margin: 34px -10000px 0px 0px;
+}
+
+#u948
+{
+	z-index: 29;
+	width: 17px;
+	border-style: none;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 24px;
+	left: 296px;
+}
+
+#buttonu946:hover #u948
+{
+	background-color: transparent;
+	width: 17px;
+	min-height: 0px;
+	margin: 24px -10000px 0px 0px;
+}
+
+#buttonu946:active #u948
+{
+	background-color: transparent;
+	width: 17px;
+	min-height: 0px;
+	margin: 24px -10000px 0px 0px;
+}
+
+#buttonu941
+{
+	z-index: 31;
+	width: 313px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 24px;
+	margin-left: 1px;
+	position: relative;
+}
+
+#buttonu941.ButtonSelected
+{
+	background-color: transparent;
+	width: 313px;
+	min-height: 0px;
+	margin: 0px 0px 0px 1px;
+}
+
+#u944-4
+{
+	z-index: 32;
+	width: 122px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 34px;
+	left: 96px;
+}
+
+#buttonu946.ButtonSelected #u947-4,#buttonu941:hover #u944-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 122px;
+	margin: 34px -10000px 0px 0px;
+}
+
+#u942
+{
+	z-index: 36;
+	width: 17px;
+	border-style: none;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 24px;
+	left: 296px;
+}
+
+#buttonu946.ButtonSelected #u948,#buttonu941:hover #u942
+{
+	background-color: transparent;
+	width: 17px;
+	min-height: 0px;
+	margin: 24px -10000px 0px 0px;
+}
+
+#buttonu941:active #u942
+{
+	background-color: transparent;
+	width: 17px;
+	min-height: 0px;
+	margin: 24px -10000px 0px 0px;
+}
+
+#buttonu936
+{
+	z-index: 38;
+	width: 313px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 24px;
+	margin-left: 1px;
+	top: -1px;
+	margin-bottom: -1px;
+	position: relative;
+}
+
+#buttonu936:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #F5C791;
+	width: 313px;
+	min-height: 0px;
+	margin: 0px 0px -1px 1px;
+}
+
+#u939-4
+{
+	z-index: 39;
+	width: 122px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 34px;
+	left: 96px;
+}
+
+#buttonu941.ButtonSelected #u944-4,#buttonu936:hover #u939-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 122px;
+	margin: 34px -10000px 0px 0px;
+}
+
+#buttonu936.ButtonSelected #u939-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 122px;
+	margin: 34px -10000px 0px 0px;
+}
+
+#u947-2,#u944-2,#u939-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u947,#u944,#u939
+{
+	line-height: 19px;
+}
+
+#u937
+{
+	z-index: 43;
+	width: 17px;
+	border-style: none;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 24px;
+	left: 296px;
+}
+
+#u948::before,#u942::before,#u937::before
+{
+	box-shadow: none;
+}
+
+#buttonu941.ButtonSelected #u942,#buttonu936:hover #u937
+{
+	background-color: transparent;
+	width: 17px;
+	min-height: 0px;
+	margin: 24px -10000px 0px 0px;
+}
+
+#buttonu936:active #u937
+{
+	background-color: transparent;
+	width: 17px;
+	min-height: 0px;
+	margin: 24px -10000px 0px 0px;
+}
+
+#buttonu936.ButtonSelected #u937
+{
+	background-color: transparent;
+	width: 17px;
+	min-height: 0px;
+	margin: 24px -10000px 0px 0px;
+}
+
+#u955
+{
+	z-index: 50;
+	width: 39px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 55px;
+	left: 260px;
+}
+
+#u956
+{
+	position: absolute;
+	width: 72px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FBB03B;
+	padding-bottom: 55px;
+	top: -55px;
+	left: -16px;
+}
+
+#u956.PamphletThumbSelected
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FBB03B;
+	width: 72px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u957
+{
+	z-index: 52;
+	width: 39px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 55px;
+	left: 16px;
+}
+
+#u956.PamphletThumbSelected #u957
+{
+	width: 39px;
+	min-height: 0px;
+	margin: 55px -10000px 0px 0px;
+}
+
+#u957_img
+{
+	margin-right: -1px;
+}
+
+#u950
+{
+	position: absolute;
+	width: 72px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FBB03B;
+	padding-bottom: 40px;
+	left: 243px;
+}
+
+#u951
+{
+	z-index: 55;
+	width: 60px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 40px;
+	left: 5px;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u548,#u548-bw
+{
+	z-index: 9;
+	height: 128px;
+}
+
+body
+{
+	position: relative;
+	min-width: 768px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

@@ -1,69 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://www.gardenfinder.net/images/gardenfindersociallogo62x63.jpg</loc>
+    <lastmod>2016-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.gardenfinder.net/images/gardenfindersociallogo.jpg</loc>
+    <lastmod>2016-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.gardenfinder.net/images/dsc06276.jpg</loc>
-    <lastmod>2016-07-03</lastmod>
+    <lastmod>2016-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.gardenfinder.net/images/img0.jpg</loc>
-    <lastmod>2016-07-03</lastmod>
+    <lastmod>2016-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.gardenfinder.net/images/sam_2149.jpg</loc>
-    <lastmod>2016-07-03</lastmod>
+    <lastmod>2016-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.gardenfinder.net/images/pointer.png</loc>
+    <lastmod>2016-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.gardenfinder.net/images/close_light.png</loc>
+    <lastmod>2016-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.gardenfinder.net/images/img1.jpg</loc>
+    <lastmod>2016-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.gardenfinder.net/images/img2.jpg</loc>
-    <lastmod>2016-07-03</lastmod>
+    <lastmod>2016-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.gardenfinder.net/images/dsc062762.jpg</loc>
+    <lastmod>2016-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.gardenfinder.net/images/img02.jpg</loc>
+    <lastmod>2016-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.gardenfinder.net/images/sam_21492.jpg</loc>
+    <lastmod>2016-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.gardenfinder.net/images/img22.jpg</loc>
+    <lastmod>2016-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.gardenfinder.net/index.html</loc>
-    <lastmod>2016-07-01</lastmod>
+    <lastmod>2016-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.gardenfinder.net/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://www.gardenfinder.net/tablet/index.html"/>
   </url>
   <url>
     <loc>http://www.gardenfinder.net/is-gardening-good-for-you.html</loc>
-    <lastmod>2016-07-02</lastmod>
+    <lastmod>2016-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.gardenfinder.net/phone/is-gardening-good-for-you.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://www.gardenfinder.net/tablet/is-gardening-good-for-you.html"/>
   </url>
   <url>
     <loc>http://www.gardenfinder.net/nambucca.html</loc>
-    <lastmod>2016-07-02</lastmod>
+    <lastmod>2016-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.gardenfinder.net/phone/nambucca.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://www.gardenfinder.net/tablet/nambucca.html"/>
   </url>
   <url>
     <loc>http://www.gardenfinder.net/bowraville.html</loc>
-    <lastmod>2016-07-02</lastmod>
+    <lastmod>2016-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.gardenfinder.net/phone/bowraville.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://www.gardenfinder.net/tablet/bowraville.html"/>
   </url>
   <url>
     <loc>http://www.gardenfinder.net/macksville.html</loc>
-    <lastmod>2016-07-02</lastmod>
+    <lastmod>2016-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.gardenfinder.net/phone/macksville.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://www.gardenfinder.net/tablet/macksville.html"/>
   </url>
   <url>
     <loc>http://www.gardenfinder.net/bowraville-community-garden.html</loc>
-    <lastmod>2016-07-02</lastmod>
+    <lastmod>2016-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.gardenfinder.net/phone/bowraville-community-garden.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://www.gardenfinder.net/tablet/bowraville-community-garden.html"/>
   </url>
   <url>
     <loc>http://www.gardenfinder.net/lifetime-connect-community-garden.html</loc>
-    <lastmod>2016-07-02</lastmod>
+    <lastmod>2016-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.gardenfinder.net/phone/lifetime-connect-community-garden.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://www.gardenfinder.net/tablet/lifetime-connect-community-garden.html"/>
   </url>
 </urlset>

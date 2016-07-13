@@ -1,0 +1,526 @@
+.version.bowraville_community_garden /* version checker */
+{
+	color: #000016;
+	background-color: #86EF0B;
+}
+
+@-ms-viewport
+{
+	width: 768px;
+}
+
+@-webkit-viewport
+{
+	width: 768px;
+}
+
+@-o-viewport
+{
+	width: 768px;
+}
+
+@-moz-viewport
+{
+	width: 768px;
+}
+
+@viewport
+{
+	width: 768px;
+}
+
+.html
+{
+	background-color: #006A00;
+}
+
+#page
+{
+	z-index: 1;
+	width: 768px;
+	min-height: 1024px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #006837;
+}
+
+#page_position_content
+{
+	padding-top: 19px;
+	width: 0.01px;
+}
+
+#u540-4
+{
+	z-index: 2;
+	margin-right: -10000px;
+	margin-top: 17px;
+}
+
+#u541
+{
+	z-index: 6;
+	width: 91px;
+	margin-right: -10000px;
+	left: 93px;
+}
+
+#pu540-4,#pu547
+{
+	width: 0.01px;
+}
+
+#u547
+{
+	z-index: 8;
+	min-height: 460px;
+	padding: 68px 116px 240px 115px;
+}
+
+#u1104
+{
+	z-index: 10;
+	width: 300px;
+	background-color: transparent;
+	margin-left: 119px;
+	position: relative;
+}
+
+#u1108-7
+{
+	z-index: 12;
+	width: 537px;
+	min-height: 230px;
+	background-color: transparent;
+	text-align: center;
+	margin-top: 31px;
+	position: relative;
+}
+
+#u1108-2
+{
+	font-size: 22px;
+	line-height: 26px;
+	font-family: actor, sans-serif;
+	font-weight: 400;
+}
+
+#u547-bw
+{
+	z-index: 8;
+	min-height: 460px;
+}
+
+#pamphletu997
+{
+	z-index: 19;
+	width: 0.01px;
+	height: 87px;
+	padding-bottom: 300px;
+	position: relative;
+	margin-right: -10000px;
+	left: 453px;
+}
+
+#u1000
+{
+	position: absolute;
+	width: 315px;
+	background-color: transparent;
+}
+
+#u1000popup
+{
+	z-index: 20;
+}
+
+#u1001
+{
+	z-index: 21;
+	width: 315px;
+	height: 387px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #EDEDED;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u1006
+{
+	z-index: 43;
+	width: 315px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #DA8F38;
+	padding-bottom: 39px;
+	position: relative;
+}
+
+#u1011-4
+{
+	z-index: 44;
+	width: 185px;
+	min-height: 49px;
+	background-color: transparent;
+	font-size: 23px;
+	text-align: center;
+	line-height: 28px;
+	font-family: actor, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 54px;
+	left: 42px;
+}
+
+#buttonu1012
+{
+	z-index: 22;
+	width: 313px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 24px;
+	margin-left: 1px;
+	position: relative;
+}
+
+#u1013-4
+{
+	z-index: 23;
+	width: 122px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 34px;
+	left: 96px;
+}
+
+#buttonu1012:hover #u1013-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 122px;
+	margin: 34px -10000px 0px 0px;
+}
+
+#u1014
+{
+	z-index: 27;
+	width: 17px;
+	border-style: none;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 24px;
+	left: 296px;
+}
+
+#buttonu1012:hover #u1014
+{
+	background-color: transparent;
+	width: 17px;
+	min-height: 0px;
+	margin: 24px -10000px 0px 0px;
+}
+
+#buttonu1012:active #u1014
+{
+	background-color: transparent;
+	width: 17px;
+	min-height: 0px;
+	margin: 24px -10000px 0px 0px;
+}
+
+#buttonu1007
+{
+	z-index: 29;
+	width: 313px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 24px;
+	margin-left: 1px;
+	position: relative;
+}
+
+#buttonu1012:hover,#buttonu1007:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #F5C791;
+	width: 313px;
+	min-height: 0px;
+	margin: 0px 0px 0px 1px;
+}
+
+#u1010-4
+{
+	z-index: 30;
+	width: 122px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 34px;
+	left: 96px;
+}
+
+#buttonu1012.ButtonSelected #u1013-4,#buttonu1007:hover #u1010-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 122px;
+	margin: 34px -10000px 0px 0px;
+}
+
+#u1008
+{
+	z-index: 34;
+	width: 17px;
+	border-style: none;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 24px;
+	left: 296px;
+}
+
+#buttonu1012.ButtonSelected #u1014,#buttonu1007:hover #u1008
+{
+	background-color: transparent;
+	width: 17px;
+	min-height: 0px;
+	margin: 24px -10000px 0px 0px;
+}
+
+#buttonu1007:active #u1008
+{
+	background-color: transparent;
+	width: 17px;
+	min-height: 0px;
+	margin: 24px -10000px 0px 0px;
+}
+
+#buttonu1002
+{
+	z-index: 36;
+	width: 313px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 24px;
+	margin-left: 1px;
+	top: -1px;
+	margin-bottom: -1px;
+	position: relative;
+}
+
+#buttonu1002:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #F5C791;
+	width: 313px;
+	min-height: 0px;
+	margin: 0px 0px -1px 1px;
+}
+
+#u1005-4
+{
+	z-index: 37;
+	width: 122px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 34px;
+	left: 96px;
+}
+
+#buttonu1007.ButtonSelected #u1010-4,#buttonu1002:hover #u1005-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 122px;
+	margin: 34px -10000px 0px 0px;
+}
+
+#buttonu1002.ButtonSelected #u1005-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 122px;
+	margin: 34px -10000px 0px 0px;
+}
+
+#u1013-2,#u1010-2,#u1005-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1013,#u1010,#u1005
+{
+	line-height: 19px;
+}
+
+#u1003
+{
+	z-index: 41;
+	width: 17px;
+	border-style: none;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 24px;
+	left: 296px;
+}
+
+#u1014::before,#u1008::before,#u1003::before
+{
+	box-shadow: none;
+}
+
+#buttonu1007.ButtonSelected #u1008,#buttonu1002:hover #u1003
+{
+	background-color: transparent;
+	width: 17px;
+	min-height: 0px;
+	margin: 24px -10000px 0px 0px;
+}
+
+#buttonu1002:active #u1003
+{
+	background-color: transparent;
+	width: 17px;
+	min-height: 0px;
+	margin: 24px -10000px 0px 0px;
+}
+
+#buttonu1002.ButtonSelected #u1003
+{
+	background-color: transparent;
+	width: 17px;
+	min-height: 0px;
+	margin: 24px -10000px 0px 0px;
+}
+
+#u1021
+{
+	z-index: 48;
+	width: 39px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 55px;
+	left: 260px;
+}
+
+#u1022
+{
+	position: absolute;
+	width: 72px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FBB03B;
+	padding-bottom: 55px;
+	top: -55px;
+	left: -16px;
+}
+
+#u1022.PamphletThumbSelected
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FBB03B;
+	width: 72px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1023
+{
+	z-index: 50;
+	width: 39px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 55px;
+	left: 16px;
+}
+
+#u1022.PamphletThumbSelected #u1023
+{
+	width: 39px;
+	min-height: 0px;
+	margin: 55px -10000px 0px 0px;
+}
+
+#u1023_img
+{
+	margin-right: -1px;
+}
+
+#u1016
+{
+	position: absolute;
+	width: 72px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FBB03B;
+	padding-bottom: 40px;
+	left: 243px;
+}
+
+#u1017
+{
+	z-index: 53;
+	width: 60px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 40px;
+	left: 5px;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u548,#u548-bw
+{
+	z-index: 9;
+	height: 128px;
+}
+
+body
+{
+	position: relative;
+	min-width: 768px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
