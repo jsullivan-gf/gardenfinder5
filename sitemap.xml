@@ -7,19 +7,43 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.gardenfinder.net/images/gardenfindersociallogo.jpg</loc>
-    <lastmod>2016-07-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.gardenfinder.net/images/dsc06276.jpg</loc>
     <lastmod>2016-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.gardenfinder.net/images/dsc062762.jpg</loc>
+    <lastmod>2016-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.gardenfinder.net/images/img1.jpg</loc>
+    <lastmod>2016-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.gardenfinder.net/images/img0.jpg</loc>
+    <lastmod>2016-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.gardenfinder.net/images/gardenfindersociallogo.jpg</loc>
+    <lastmod>2016-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.gardenfinder.net/images/dsc062763.jpg</loc>
+    <lastmod>2016-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.gardenfinder.net/images/img02.jpg</loc>
     <lastmod>2016-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -43,7 +67,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.gardenfinder.net/images/img1.jpg</loc>
+    <loc>http://www.gardenfinder.net/images/img12.jpg</loc>
     <lastmod>2016-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -55,13 +79,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.gardenfinder.net/images/dsc062762.jpg</loc>
+    <loc>http://www.gardenfinder.net/images/dsc062764.jpg</loc>
     <lastmod>2016-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.gardenfinder.net/images/img02.jpg</loc>
+    <loc>http://www.gardenfinder.net/images/img03.jpg</loc>
     <lastmod>2016-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -96,7 +120,7 @@
   </url>
   <url>
     <loc>http://www.gardenfinder.net/nambucca.html</loc>
-    <lastmod>2016-07-04</lastmod>
+    <lastmod>2016-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.gardenfinder.net/phone/nambucca.html"/>

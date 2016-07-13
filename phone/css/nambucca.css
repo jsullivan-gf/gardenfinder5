@@ -1,7 +1,7 @@
 .version.nambucca /* version checker */
 {
-	color: #000001;
-	background-color: #5352F1;
+	color: #0000F4;
+	background-color: #C9159D;
 }
 
 @-ms-viewport
@@ -45,6 +45,11 @@
 	background-color: transparent;
 }
 
+#page_position_content
+{
+	width: 0.01px;
+}
+
 #u1188
 {
 	z-index: 2;
@@ -67,6 +72,54 @@
 	min-height: 67px;
 }
 
+#pu1809-4
+{
+	width: 0.01px;
+	margin-left: 44px;
+	margin-top: 14px;
+}
+
+#u1809-4
+{
+	z-index: 6;
+	width: 293px;
+	min-height: 66px;
+	background-color: transparent;
+	font-size: 26px;
+	text-align: center;
+	line-height: 31px;
+	font-family: actor, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1864
+{
+	z-index: 14;
+	width: 200px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 47px;
+}
+
+#u1810-4
+{
+	z-index: 10;
+	width: 293px;
+	min-height: 214px;
+	background-color: transparent;
+	font-size: 18px;
+	line-height: 22px;
+	margin-left: 44px;
+	margin-top: 6px;
+	position: relative;
+}
+
 #u1189
 {
 	z-index: 3;
@@ -76,7 +129,7 @@
 #u1189-bw
 {
 	z-index: 3;
-	margin-top: 499px;
+	margin-top: 94px;
 	height: 71px;
 }
 
@@ -89,6 +142,5 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -498px;
 }
 

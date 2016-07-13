@@ -1,7 +1,7 @@
 .version.bowraville /* version checker */
 {
 	color: #000001;
-	background-color: #5352F1;
+	background-color: #31A25C;
 }
 
 @-ms-viewport
@@ -45,6 +45,11 @@
 	background-color: transparent;
 }
 
+#page_position_content
+{
+	width: 0.01px;
+}
+
 #u1188
 {
 	z-index: 2;
@@ -67,6 +72,81 @@
 	min-height: 67px;
 }
 
+#pu1811-4
+{
+	width: 0.01px;
+	margin-left: 32px;
+	margin-top: 14px;
+}
+
+#u1811-4
+{
+	z-index: 6;
+	width: 317px;
+	min-height: 54px;
+	background-color: transparent;
+	font-size: 26px;
+	text-align: center;
+	line-height: 31px;
+	font-family: actor, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1812
+{
+	z-index: 10;
+	width: 242px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 72px;
+	left: 37px;
+}
+
+#u1865
+{
+	z-index: 18;
+	width: 200px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 58px;
+}
+
+#u1818-5
+{
+	z-index: 12;
+	width: 288px;
+	min-height: 34px;
+	background-color: transparent;
+	font-size: 18px;
+	text-align: center;
+	line-height: 22px;
+	font-family: actor, sans-serif;
+	font-weight: 400;
+	margin-left: 46px;
+	margin-top: 18px;
+	position: relative;
+}
+
+#u1820
+{
+	z-index: 17;
+	width: 200px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 90px;
+	margin-top: 15px;
+	position: relative;
+}
+
 #u1189
 {
 	z-index: 3;
@@ -76,7 +156,7 @@
 #u1189-bw
 {
 	z-index: 3;
-	margin-top: 499px;
+	margin-top: 14px;
 	height: 71px;
 }
 
@@ -89,6 +169,5 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -498px;
 }
 

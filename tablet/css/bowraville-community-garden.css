@@ -1,7 +1,7 @@
 .version.bowraville_community_garden /* version checker */
 {
-	color: #000016;
-	background-color: #86EF0B;
+	color: #00001D;
+	background-color: #C80727;
 }
 
 @-ms-viewport
@@ -505,6 +505,20 @@
 .PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
 {
 	cursor: pointer;
+}
+
+#u1859
+{
+	z-index: 55;
+	width: 200px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 25px;
+	left: 65px;
 }
 
 #u548,#u548-bw

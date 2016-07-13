@@ -1,7 +1,7 @@
 .version.lifetime_connect_community_garden /* version checker */
 {
-	color: #000001;
-	background-color: #5352F1;
+	color: #0000F1;
+	background-color: #756942;
 }
 
 @-ms-viewport
@@ -45,6 +45,11 @@
 	background-color: transparent;
 }
 
+#page_position_content
+{
+	width: 0.01px;
+}
+
 #u1188
 {
 	z-index: 2;
@@ -67,6 +72,67 @@
 	min-height: 67px;
 }
 
+#pu1840-4
+{
+	width: 0.01px;
+	margin-left: 28px;
+	margin-top: 4px;
+}
+
+#u1840-4
+{
+	z-index: 6;
+	width: 324px;
+	min-height: 56px;
+	background-color: transparent;
+	font-size: 26px;
+	text-align: center;
+	line-height: 31px;
+	font-family: actor, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 14px;
+}
+
+#u1869
+{
+	z-index: 16;
+	width: 200px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 72px;
+}
+
+#u1841
+{
+	z-index: 10;
+	width: 231px;
+	background-color: transparent;
+	margin-left: 74px;
+	position: relative;
+}
+
+#u1847-4
+{
+	z-index: 12;
+	width: 310px;
+	min-height: 78px;
+	background-color: transparent;
+	font-size: 18px;
+	text-align: center;
+	line-height: 22px;
+	font-family: actor, sans-serif;
+	font-weight: 400;
+	margin-left: 35px;
+	margin-top: 24px;
+	position: relative;
+}
+
 #u1189
 {
 	z-index: 3;
@@ -76,7 +142,7 @@
 #u1189-bw
 {
 	z-index: 3;
-	margin-top: 499px;
+	margin-top: 92px;
 	height: 71px;
 }
 
@@ -89,6 +155,5 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -498px;
 }
 

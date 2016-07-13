@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000011;
-	background-color: #9C6D56;
+	color: #0000EF;
+	background-color: #5D13E0;
 }
 
 @-ms-viewport
@@ -77,6 +77,12 @@
 	min-height: 67px;
 }
 
+#pu1669-4
+{
+	width: 0.01px;
+	margin-left: 25px;
+}
+
 #u1669-4
 {
 	z-index: 6;
@@ -88,9 +94,22 @@
 	line-height: 48px;
 	font-family: actor, sans-serif;
 	font-weight: 400;
-	margin-left: 25px;
-	margin-top: 16px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+}
+
+#u1862
+{
+	z-index: 28;
+	width: 200px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 69px;
 }
 
 #u1670-4
@@ -104,7 +123,7 @@
 	font-family: actor, sans-serif;
 	font-weight: 400;
 	margin-left: 25px;
-	margin-top: 11px;
+	margin-top: 10px;
 	position: relative;
 }
 
@@ -196,16 +215,35 @@
 	margin: 19px 0px 0px 107px;
 }
 
-#u1189
+#u1848
 {
-	z-index: 3;
-	height: 71px;
+	z-index: 26;
+	width: 193px;
+	min-height: 28px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 94px;
+	margin-top: 5px;
+	position: relative;
 }
 
-#u1189-bw
+#u1850
+{
+	z-index: 27;
+	width: 235px;
+	min-height: 24px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 73px;
+	margin-top: 6px;
+	position: relative;
+}
+
+#u1189,#u1189-bw
 {
 	z-index: 3;
-	margin-top: 56px;
 	height: 71px;
 }
 

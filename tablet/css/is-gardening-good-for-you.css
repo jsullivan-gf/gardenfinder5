@@ -1,7 +1,7 @@
 .version.is_gardening_good_for_you /* version checker */
 {
-	color: #0000F1;
-	background-color: #E08101;
+	color: #000001;
+	background-color: #5CCE0F;
 }
 
 @-ms-viewport
@@ -514,6 +514,18 @@
 .PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
 {
 	cursor: pointer;
+}
+
+#u1855
+{
+	z-index: 68;
+	width: 200px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
 }
 
 #u548,#u548-bw

@@ -1,7 +1,7 @@
 .version.lifetime_connect_community_garden /* version checker */
 {
-	color: #0000EB;
-	background-color: #1D9770;
+	color: #00001C;
+	background-color: #6375BC;
 }
 
 @-ms-viewport
@@ -514,6 +514,19 @@
 .PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
 {
 	cursor: pointer;
+}
+
+#u1860
+{
+	z-index: 55;
+	width: 200px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
 }
 
 #u548,#u548-bw

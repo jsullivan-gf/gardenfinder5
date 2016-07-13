@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EC;
-	background-color: #301656;
+	color: #0000FA;
+	background-color: #50A9E4;
 }
 
 @-ms-viewport
@@ -712,6 +712,20 @@
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton,.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* slideshowFreeStyle */
 {
 	cursor: pointer;
+}
+
+#u1861
+{
+	z-index: 83;
+	width: 200px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 24px;
+	left: 28px;
 }
 
 #u548,#u548-bw

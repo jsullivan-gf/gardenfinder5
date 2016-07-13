@@ -1,7 +1,7 @@
 .version.macksville /* version checker */
 {
-	color: #0000FD;
-	background-color: #F1CD32;
+	color: #00001F;
+	background-color: #191751;
 }
 
 .html
@@ -329,7 +329,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 25px;
-	background: transparent url("../images/img12.jpg") no-repeat left top;
+	background: transparent url("../images/img13.jpg") no-repeat left top;
 }
 
 #u440-11

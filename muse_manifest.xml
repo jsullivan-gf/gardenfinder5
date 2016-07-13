@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.gardenfinder.net" resolutions="1x" timestamp="1468401016510">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.gardenfinder.net" resolutions="1x" timestamp="1468403515074">
   <folder name="css">
     <file name="site_global.css" crc="3854026573"/>
     <file name="master_a-master.css" crc="33218015" ref="is-gardening-good-for-you:bowraville:lifetime-connect-community-garden:macksville:bowraville-community-garden:index:nambucca"/>
     <file name="is-gardening-good-for-you.css" crc="392709521" ref="is-gardening-good-for-you"/>
-    <file name="bowraville.css" crc="3891749149" ref="bowraville"/>
+    <file name="bowraville.css" crc="526889173" ref="bowraville"/>
     <file name="lifetime-connect-community-garden.css" crc="3890026743" ref="lifetime-connect-community-garden"/>
-    <file name="macksville.css" crc="4260482354" ref="macksville"/>
+    <file name="macksville.css" crc="521738065" ref="macksville"/>
     <file name="bowraville-community-garden.css" crc="530256799" ref="bowraville-community-garden"/>
     <file name="index.css" crc="4239742930" ref="index"/>
     <file name="nambucca.css" crc="4257344108" ref="nambucca"/>
@@ -27,11 +27,15 @@
   <folder name="images">
     <file name="favicon.ico" crc="9445242" ref="phone>index"/>
     <file name="gardenfindersociallogo62x63.jpg" crc="107450099" seo="true" ref="phone>index"/>
+    <file name="dsc06276.jpg" crc="362569606" seo="true" ref="phone>bowraville"/>
+    <file name="dsc062762.jpg" crc="3866875964" seo="true" ref="phone>bowraville-community-garden"/>
+    <file name="img1.jpg" crc="241085861" seo="true" ref="phone>macksville"/>
+    <file name="img0.jpg" crc="4264065196" seo="true" ref="phone>lifetime-connect-community-garden"/>
     <file name="u540-4.png" crc="4187036648" ref="tablet>index:tablet>is-gardening-good-for-you:tablet>nambucca:tablet>bowraville:tablet>bowraville-community-garden:tablet>macksville:tablet>lifetime-connect-community-garden"/>
     <file name="gardenfindersociallogo.jpg" crc="123086506" seo="true" ref="tablet>index:tablet>is-gardening-good-for-you:tablet>nambucca:tablet>bowraville:tablet>bowraville-community-garden:tablet>macksville:tablet>lifetime-connect-community-garden"/>
-    <file name="dsc06276.jpg" crc="4232716422" seo="true" ref="tablet>index:tablet>bowraville:tablet>bowraville-community-garden"/>
+    <file name="dsc062763.jpg" crc="4232716422" seo="true" ref="tablet>index:tablet>bowraville:tablet>bowraville-community-garden"/>
     <file name="blank.gif" crc="4208392903" ref="tablet>index:index"/>
-    <file name="img0.jpg" crc="479463172" seo="true" ref="tablet>index"/>
+    <file name="img02.jpg" crc="479463172" seo="true" ref="tablet>index"/>
     <file name="sam_2149.jpg" crc="3786890471" seo="true" ref="tablet>index"/>
     <file name="loading.gif" crc="3815509949" ref="tablet>index:index"/>
     <file name="pointer.png" crc="3760686964" seo="true" ref="tablet>index:tablet>is-gardening-good-for-you:tablet>nambucca:tablet>bowraville:tablet>bowraville-community-garden:tablet>macksville:tablet>lifetime-connect-community-garden"/>
@@ -41,15 +45,15 @@
     <file name="menu_icon_04_white_3line-crop-u924.png" crc="4113681886" ref="tablet>nambucca"/>
     <file name="menu_icon_04_white_3line-crop-u957.png" crc="4113681886" ref="tablet>bowraville"/>
     <file name="menu_icon_04_white_3line-crop-u1023.png" crc="4113681886" ref="tablet>bowraville-community-garden"/>
-    <file name="img1.jpg" crc="4202753756" seo="true" ref="tablet>macksville"/>
+    <file name="img12.jpg" crc="4202753756" seo="true" ref="tablet>macksville"/>
     <file name="menu_icon_04_white_3line-crop-u990.png" crc="4113681886" ref="tablet>macksville"/>
     <file name="img2.jpg" crc="4006530103" seo="true" ref="tablet>lifetime-connect-community-garden"/>
     <file name="menu_icon_04_white_3line-crop-u1056.png" crc="4113681886" ref="tablet>lifetime-connect-community-garden"/>
     <file name="u406-4.png" crc="3787848286" ref="index:is-gardening-good-for-you:nambucca:bowraville:macksville:bowraville-community-garden:lifetime-connect-community-garden"/>
     <file name="u130.png" crc="3850056316" ref="index"/>
     <file name="u130-a.png" crc="3850056316" ref="index"/>
-    <file name="dsc062762.jpg" crc="4232716422" seo="true" ref="index:bowraville:bowraville-community-garden"/>
-    <file name="img02.jpg" crc="479463172" seo="true" ref="index"/>
+    <file name="dsc062764.jpg" crc="4232716422" seo="true" ref="index:bowraville:bowraville-community-garden"/>
+    <file name="img03.jpg" crc="479463172" seo="true" ref="index"/>
     <file name="sam_21492.jpg" crc="3786890471" seo="true" ref="index"/>
     <file name="u224-4.png" crc="4149989072" ref="index"/>
     <file name="u275-6.png" crc="111262949" ref="index"/>
@@ -57,7 +61,7 @@
     <file name="u114-6.png" crc="3913157448" ref="index"/>
     <file name="u409-20.png" crc="3776941546" ref="is-gardening-good-for-you"/>
     <file name="u459-4.png" crc="3801705802" ref="nambucca"/>
-    <file name="img12.jpg" crc="4202753756" ref="macksville"/>
+    <file name="img13.jpg" crc="4202753756" ref="macksville"/>
     <file name="u449-7.png" crc="4105591533" ref="bowraville-community-garden"/>
     <file name="img22.jpg" crc="4006530103" seo="true" ref="lifetime-connect-community-garden"/>
     <file name="u457-7.png" crc="4134909672" ref="lifetime-connect-community-garden"/>
@@ -65,46 +69,46 @@
   <folder name="tablet">
     <folder name="css">
       <file name="master_a-master.css" crc="404000534" ref="tablet>bowraville-community-garden:tablet>macksville:tablet>lifetime-connect-community-garden:tablet>nambucca:tablet>index:tablet>is-gardening-good-for-you:tablet>bowraville"/>
-      <file name="bowraville-community-garden.css" crc="377941771" ref="tablet>bowraville-community-garden"/>
-      <file name="macksville.css" crc="3810966015" ref="tablet>macksville"/>
-      <file name="lifetime-connect-community-garden.css" crc="3944585072" ref="tablet>lifetime-connect-community-garden"/>
-      <file name="nambucca.css" crc="4087813720" ref="tablet>nambucca"/>
-      <file name="index.css" crc="3962574422" ref="tablet>index"/>
-      <file name="is-gardening-good-for-you.css" crc="4058022145" ref="tablet>is-gardening-good-for-you"/>
-      <file name="bowraville.css" crc="486429741" ref="tablet>bowraville"/>
+      <file name="bowraville-community-garden.css" crc="499648295" ref="tablet>bowraville-community-garden"/>
+      <file name="macksville.css" crc="81631868" ref="tablet>macksville"/>
+      <file name="lifetime-connect-community-garden.css" crc="476280252" ref="tablet>lifetime-connect-community-garden"/>
+      <file name="nambucca.css" crc="451587266" ref="tablet>nambucca"/>
+      <file name="index.css" crc="4199590372" ref="tablet>index"/>
+      <file name="is-gardening-good-for-you.css" crc="22859279" ref="tablet>is-gardening-good-for-you"/>
+      <file name="bowraville.css" crc="290343372" ref="tablet>bowraville"/>
     </folder>
-    <file name="index.html" crc="3925670629" seo="true" mt="1467616804825" redirect="true"/>
-    <file name="is-gardening-good-for-you.html" crc="3776238584" seo="true" mt="1467616804825" redirect="true"/>
-    <file name="nambucca.html" crc="199310217" seo="true" mt="1468400982216" redirect="true"/>
-    <file name="bowraville.html" crc="183594932" seo="true" mt="1467616804826" redirect="true"/>
-    <file name="bowraville-community-garden.html" crc="4168963385" seo="true" mt="1467616804826" redirect="true"/>
-    <file name="macksville.html" crc="4147830872" seo="true" mt="1467616804826" redirect="true"/>
-    <file name="lifetime-connect-community-garden.html" crc="301148957" seo="true" mt="1467616804826" redirect="true"/>
+    <file name="index.html" crc="284735104" seo="true" mt="1468403397015" redirect="true"/>
+    <file name="is-gardening-good-for-you.html" crc="4230961688" seo="true" mt="1468403319225" redirect="true"/>
+    <file name="nambucca.html" crc="21671695" seo="true" mt="1468403332629" redirect="true"/>
+    <file name="bowraville.html" crc="3977253197" seo="true" mt="1468403344507" redirect="true"/>
+    <file name="bowraville-community-garden.html" crc="4049689837" seo="true" mt="1468403368931" redirect="true"/>
+    <file name="macksville.html" crc="4068397250" seo="true" mt="1468403353632" redirect="true"/>
+    <file name="lifetime-connect-community-garden.html" crc="3854021535" seo="true" mt="1468403379380" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="3793858160" ref="phone>bowraville:phone>index:phone>is-gardening-good-for-you:phone>macksville:phone>nambucca:phone>lifetime-connect-community-garden:phone>bowraville-community-garden"/>
-      <file name="bowraville.css" crc="22237937" ref="phone>bowraville"/>
-      <file name="index.css" crc="295464278" ref="phone>index"/>
-      <file name="is-gardening-good-for-you.css" crc="483557721" ref="phone>is-gardening-good-for-you"/>
-      <file name="macksville.css" crc="22237937" ref="phone>macksville"/>
-      <file name="nambucca.css" crc="22237937" ref="phone>nambucca"/>
-      <file name="lifetime-connect-community-garden.css" crc="22237937" ref="phone>lifetime-connect-community-garden"/>
-      <file name="bowraville-community-garden.css" crc="22237937" ref="phone>bowraville-community-garden"/>
+      <file name="bowraville.css" crc="20030044" ref="phone>bowraville"/>
+      <file name="index.css" crc="4015854560" ref="phone>index"/>
+      <file name="is-gardening-good-for-you.css" crc="3975152603" ref="phone>is-gardening-good-for-you"/>
+      <file name="macksville.css" crc="106910802" ref="phone>macksville"/>
+      <file name="nambucca.css" crc="4106818973" ref="phone>nambucca"/>
+      <file name="lifetime-connect-community-garden.css" crc="4051003714" ref="phone>lifetime-connect-community-garden"/>
+      <file name="bowraville-community-garden.css" crc="478494901" ref="phone>bowraville-community-garden"/>
     </folder>
-    <file name="index.html" crc="135535999" seo="true" mt="1468144309997" redirect="true"/>
-    <file name="is-gardening-good-for-you.html" crc="353772025" seo="true" mt="1468145205382" redirect="true"/>
-    <file name="nambucca.html" crc="3876671676" seo="true" mt="1467621696193" redirect="true"/>
-    <file name="bowraville.html" crc="249185997" seo="true" mt="1467621696193" redirect="true"/>
-    <file name="bowraville-community-garden.html" crc="3784647457" seo="true" mt="1467621696193" redirect="true"/>
-    <file name="macksville.html" crc="367716032" seo="true" mt="1467621696193" redirect="true"/>
-    <file name="lifetime-connect-community-garden.html" crc="4162497971" seo="true" mt="1467621696193" redirect="true"/>
+    <file name="index.html" crc="3979467974" seo="true" mt="1468403426898" redirect="true"/>
+    <file name="is-gardening-good-for-you.html" crc="497485391" seo="true" mt="1468403438085" redirect="true"/>
+    <file name="nambucca.html" crc="4015261175" seo="true" mt="1468403446432" redirect="true"/>
+    <file name="bowraville.html" crc="3978154333" seo="true" mt="1468403455630" redirect="true"/>
+    <file name="bowraville-community-garden.html" crc="4013188603" seo="true" mt="1468403475086" redirect="true"/>
+    <file name="macksville.html" crc="121534077" seo="true" mt="1468403465183" redirect="true"/>
+    <file name="lifetime-connect-community-garden.html" crc="3948489232" seo="true" mt="1468403487261" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4167085517" seo="true" mt="1467616804546" redirect="true"/>
+  <file name="index.html" crc="4043547632" seo="true" mt="1467616804546" redirect="true"/>
   <file name="is-gardening-good-for-you.html" crc="19502248" seo="true" mt="1467616804588" redirect="true"/>
-  <file name="nambucca.html" crc="4273372102" seo="true" mt="1467616804630" redirect="true"/>
+  <file name="nambucca.html" crc="4273372102" seo="true" mt="1468403259957" redirect="true"/>
   <file name="bowraville.html" crc="3762754255" seo="true" mt="1467616804671" redirect="true"/>
   <file name="macksville.html" crc="194998385" seo="true" mt="1467616804755" redirect="true"/>
-  <file name="bowraville-community-garden.html" crc="58899368" seo="true" mt="1467616804712" redirect="true"/>
+  <file name="bowraville-community-garden.html" crc="3980309678" seo="true" mt="1467616804712" redirect="true"/>
   <file name="lifetime-connect-community-garden.html" crc="3865197206" seo="true" mt="1467616804797" redirect="true"/>
 </manifest>
